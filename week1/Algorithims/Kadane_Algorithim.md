@@ -41,14 +41,9 @@ Example : `[5,4,-1,7,8]`
 | 3 | 7       | max(7, 8 + 7 = 15) = 15                   | 15                        |
 | 4 | 8       | max(8, 15 + 8 = 23) = 23                  | 23                        |
 
-## Implementation
+## Java Implementation
 ```
 
----
-
-## 💻Java Implementation
-
-```java
 public static int maxSubArray(int[] A) {
     int curr_sum = A[0];
     int max_sum = A[0];
