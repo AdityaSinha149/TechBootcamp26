@@ -65,12 +65,6 @@ students.add("David");  // Just works! No resizing needed!
     ┌─────────┴─────────┬─────────────┬──────────┐
     |                   |             |          |
   List<E>            Set<E>        Queue<E>   Deque<E>
-    |                   |             |          |
-  ┌─┴──┐          ┌─────┴─────┐      |      ┌───┴───┐
-  |    |          |     |     |      |      |       |
-ArrayList LinkedList HashSet TreeSet PriorityQueue ArrayDeque
-                  |
-            LinkedHashSet
 
 
        Map<K,V> (separate hierarchy)
