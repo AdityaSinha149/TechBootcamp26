@@ -1,4 +1,4 @@
-# Java Collection Framework - Complete Guide
+# Java Collection Framework
 
 The **Java Collection Framework (JCF)** is your toolkit for storing and managing groups of objects efficiently. Think of it as having different types of containers for different needs - just like you'd use different containers for organizing your room!
 
